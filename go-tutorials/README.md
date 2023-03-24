@@ -9,3 +9,4 @@ https://go.dev/doc/tutorial/getting-started
     - https://towardsdatascience.com/connect-to-mysql-running-in-docker-container-from-a-local-machine-6d996c574e55
 ## 5 - https://go.dev/doc/tutorial/web-service-gin
 ## 6 - https://go.dev/doc/tutorial/generics
+## 7 - https://go.dev/doc/tutorial/fuzz
