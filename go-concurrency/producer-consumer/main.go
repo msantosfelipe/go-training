@@ -110,6 +110,7 @@ func pizzeria(pizzaMaker *Producer) {
 			case quitChan := <-pizzaMaker.quit:
 				// close channels
 				close(pizzaMaker.data)
+				close(pizzaMaker.quit)
 				close(quitChan)
 				return
 			}
