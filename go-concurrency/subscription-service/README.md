@@ -10,6 +10,7 @@
 
 ### Run project:
 - `make stop`
+- `docker-compose down`
 
 ### Run tests:
 - `cd cmd/web`
